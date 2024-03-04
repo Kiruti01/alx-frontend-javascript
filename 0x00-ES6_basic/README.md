@@ -61,9 +61,9 @@ sudo apt install nodejs -y
 ### Check version
 
 ```console
-nodejs -v
+~$ nodejs -v
 v12.22.1
-npm -v
+~$ npm -v
 6.14.12
 ```
 
