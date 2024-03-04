@@ -1,6 +1,6 @@
 # alx-frontend-javascript | 0x00. ES6 Basics
 
-## Description:bulb:
+## Description :bulb:
 
 Javascript ES6
 
