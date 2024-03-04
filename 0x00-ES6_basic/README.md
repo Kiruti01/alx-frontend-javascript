@@ -44,7 +44,7 @@ Read or watch:
 
 ---
 
-## Requirements:hammer:
+## Requirements :hammer:
 
 - Ubuntu 18.04 LTS using NodeJS 12.22.x
 - Jest Testing Framework
