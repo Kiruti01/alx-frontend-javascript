@@ -4,7 +4,7 @@
 
 > Web Stack - Front-end
 
-## Description:bulb:
+## Description :bulb:
 
 - Advanced HTML/CSS
 - Developer Tools
@@ -23,7 +23,7 @@
 - Webpack
 - Building Portfolio Applications
 
-## Technologies & Tools:computer:
+## Technologies & Tools :computer:
 
 ![NPM](https://img.shields.io/badge/≡-NPM-CB3837?&style=flat-square&logo=npm&logoColor=CB3837&labelColor=282828)
 ![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)
